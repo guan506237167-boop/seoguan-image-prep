@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "original": "animation.gif",
+      "before_bytes": 129,
+      "source_sha256": "4c41ab0525129b73dc26246d95b26fc45686c32b73efc9993c8e56398ab3e9f3",
+      "status": "skipped",
+      "reason": "animated or multi-page"
+    },
+    {
+      "original": "photo.jpg",
+      "before_bytes": 23428,
+      "source_sha256": "01438413979bd1e751e006398660557ac3cc87f8cda53b31f1ea4d56a8c05225",
+      "original_size": [
+        1600,
+        900
+      ],
+      "status": "created",
+      "output": "pump-002.webp",
+      "output_size": [
+        1200,
+        675
+      ],
+      "after_bytes": 1546,
+      "transparency": false,
+      "smaller": true
+    },
+    {
+      "original": "transparent.png",
+      "before_bytes": 135,
+      "source_sha256": "51d9899ab0bc719749a12287ed90be343c4d1279e0de30abefd00b13a148b537",
+      "original_size": [
+        64,
+        32
+      ],
+      "status": "created",
+      "output": "pump-003.webp",
+      "output_size": [
+        64,
+        32
+      ],
+      "after_bytes": 114,
+      "transparency": true,
+      "smaller": true
+    }
+  ],
+  "max_edge": 1200,
+  "quality": 82,
+  "source_preserved": true,
+  "exif_preserved": false,
+  "icc_preserved_if_present": true
+}
